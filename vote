@@ -1,0 +1,7 @@
+public class vote {
+    public static void main(String[] args) {
+        int age =15;
+        boolean v=age >=18;
+        System.out.println("are you eligible for voting:"+v);
+    }
+}
